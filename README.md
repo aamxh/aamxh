@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Working with Flutter (Mostly)</h2>
+<h2 align="center">Working with Flutter (mostly)</h2>
 
 ###
 
