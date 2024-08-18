@@ -1,6 +1,7 @@
 <br clear="both">
 
-<h2 align="center">A computer science student who's into learning more about software development and cyber-security.</h2>
+<h2 align="center">A computer science student who's into learning more about 
+  software development and cyber-security.</h2>
 
 ###
 
@@ -27,5 +28,5 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,py,html,css,js,dart,flutter,firebase,nodejs,npm,git,linux,androidstudio,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,java,py,html,css,js,dart,flutter,firebase,nodejs,npm,git,linux,androidstudio,vscode&perline=7" />
 </div>
