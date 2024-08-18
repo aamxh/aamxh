@@ -16,7 +16,7 @@
   <img src="https://skillicons.dev/icons?i=java">
   <img src="https://skillicons.dev/icons?i=py">
   <img src="https://skillicons.dev/icons?i=html">
-  <img src="https://skillicons.deb/icons?i=css">
+  <img src="https://skillicons.dev/icons?i=css">
   <img src="https://skillicons.dev/icons?i=js">
   <img src="https://skillicons.dev/icons?i=dart">
   <img src="https://skillicons.dev/icons?i=flutter">
