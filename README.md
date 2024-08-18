@@ -31,9 +31,10 @@
 </div>
 
 <br clear="both">
+<hr>
 
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: center">
-  <h4 style="align-self: start">Contact me: </h4>
+<div align="center">
+  <h4>Contact me: </h4>
   <a href="https://instagram.com/a.a.mxh/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="instagram logo"  />
   </a>
