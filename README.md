@@ -11,6 +11,12 @@
 
 <br clear="both">
 
+<div align="center" style="text-align: center;">
+  <img src="https://skillicons.dev/icons?i=c,java,py,html,css,js,dart,flutter,firebase,nodejs,express,npm,git,linux,androidstudio,vscode" />
+</div>
+
+<br clear="both">
+
 <div align="center">
   <h4>Contact me: </h4>
   <a href="https://instagram.com/a.a.mxh/" target="_blank">
@@ -22,10 +28,4 @@
   <a href="https://www.linkedin.com/in/mohamed-alsayed-ahmed-b16311317/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin logo"  />
   </a>
-</div>
-
-<br clear="both">
-
-<div align="center" style="text-align: center;">
-  <img src="https://skillicons.dev/icons?i=c,java,py,html,css,js,dart,flutter,firebase,nodejs,express,npm,git,linux,androidstudio,vscode" />
 </div>
