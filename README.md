@@ -26,5 +26,5 @@
 <br clear="both">
 
 <div align="center" style="text-align: center;">
-  <img src="https://skillicons.dev/icons?i=c,java,py,html,css,js,dart,flutter,firebase,nodejs,npm,git,linux,androidstudio,vscode&perline=10" />
+  <img src="https://skillicons.dev/icons?i=c,java,py,html,css,js,dart,flutter,firebase,nodejs,npm,git,linux,androidstudio,vscode" />
 </div>
