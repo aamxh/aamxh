@@ -13,7 +13,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://en.wikipedia.org/wiki/File:HTML5_logo_and_wordmark.svg" height="30" alt="html5 logo"  />
+  <img src="https://en.wikipedia.org/wiki/HTML#/media/File:HTML5_logo_and_wordmark.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
   <img width="12" />
