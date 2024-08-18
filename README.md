@@ -12,7 +12,21 @@
 <br clear="both">
 
 <div align="center" style="text-align: center;">
-  <img src="https://skillicons.dev/icons?i=c,java,py,html,css,js,dart,flutter,firebase,nodejs,express,npm,git,linux,androidstudio,vscode" />
+  <img src="https://skillicons.dev/icons?i=c" />
+  <img src="https://skillicons.dev/icons?i=java">
+  <img src="https://skillicons.dev/icons?i=py">
+  <img src="https://skillicons.dev/icons?i=html">
+  <img src="https://skillicons.dev/icons?i=js">
+  <img src="https://skillicons.dev/icons?i=dart">
+  <img src="https://skillicons.dev/icons?i=flutter">
+  <img src="https://skillicons.dev/icons?i=firebase">
+  <img src="https://skillicons.dev/icons?i=nodejs">
+  <img src="https://skillicons.dev/icons?i=npm">
+  <img src="https://skillicons.dev/icons?i=express">
+  <img src="https://skillicons.dev/icons?i=git">
+  <img src="https://skillicons.dev/icons?i=linux">
+  <img src="https://skillicons.dev/icons?i=androidstudio">
+  <img src="https://skillicons.dev/icons?i=vscode">
 </div>
 
 <br clear="both">
