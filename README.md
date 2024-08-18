@@ -1,15 +1,13 @@
 <br clear="both">
 
-<h4 align="center">A computer science student who's into learning more about
-  software development and cyber-security.</h4>
+<h3 align="center">A computer science student who's into learning more about
+  software development and cyber-security.</h3>
 
-###
+<hr>
 
 <div align="center">
   <img height="150" src="https://giffiles.alphacoders.com/147/147515.gif"  />
 </div>
-
-###
 
 <br clear="both">
 
