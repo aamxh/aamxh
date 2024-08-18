@@ -14,13 +14,13 @@
 <div align="center">
   <h4>Contact me: </h4>
   <a href="https://instagram.com/a.a.mxh/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="35" alt="instagram logo"  />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="instagram logo"  />
   </a>
   <a href="https://discordapp.com/users/1158869218641580076" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="35" alt="discord logo"  />
+    <img src="https://skillicons.dev/icons?i=discord" alt="discord logo"  />
   </a>
   <a href="https://www.linkedin.com/in/mohamed-alsayed-ahmed-b16311317/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="linkedin logo"  />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin logo"  />
   </a>
 </div>
 
