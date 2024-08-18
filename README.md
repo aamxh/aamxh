@@ -12,6 +12,7 @@
 <br clear="both">
 
 <div align="center">
+  <h4>Contact me: </h4>
   <a href="https://instagram.com/a.a.mxh/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="35" alt="instagram logo"  />
   </a>
