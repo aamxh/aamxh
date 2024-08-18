@@ -22,6 +22,7 @@
   <img src="https://skillicons.dev/icons?i=firebase">
   <img src="https://skillicons.dev/icons?i=nodejs">
   <img src="https://skillicons.dev/icons?i=npm">
+  <br>
   <img src="https://skillicons.dev/icons?i=express">
   <img src="https://skillicons.dev/icons?i=git">
   <img src="https://skillicons.dev/icons?i=linux">
@@ -31,8 +32,8 @@
 
 <br clear="both">
 
-<div align="center">
-  <h4>Contact me: </h4>
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: center">
+  <h4 style="align-self: start">Contact me: </h4>
   <a href="https://instagram.com/a.a.mxh/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="instagram logo"  />
   </a>
