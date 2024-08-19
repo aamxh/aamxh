@@ -28,9 +28,8 @@
   <img src="https://skillicons.dev/icons?i=vscode">
 </div>
 
-<br clear="both">
 <hr>
-
+<br clear="both">
 <div align="center">
   <h4>Contact me: </h4>
   <a href="https://instagram.com/a.a.mxh/" target="_blank">
@@ -44,8 +43,9 @@
   </a>
 </div>
 
-<br>
 <hr>
+
+<br clear="both">
 
 <div align="center">
   <img height="150" src="https://giffiles.alphacoders.com/147/147515.gif"  />
