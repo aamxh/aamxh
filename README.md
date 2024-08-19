@@ -5,10 +5,6 @@
 
 <hr>
 
-<div align="center">
-  <img height="150" src="https://giffiles.alphacoders.com/147/147515.gif"  />
-</div>
-
 <br clear="both">
 
 <div align="center" style="text-align: center;">
@@ -45,4 +41,10 @@
   <a href="https://www.linkedin.com/in/mohamed-alsayed-ahmed-b16311317/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin logo"  />
   </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img height="150" src="https://giffiles.alphacoders.com/147/147515.gif"  />
 </div>
