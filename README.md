@@ -28,7 +28,6 @@
   <img src="https://skillicons.dev/icons?i=vscode">
 </div>
 
-<hr>
 <br clear="both">
 <div align="center">
   <h4>Contact me: </h4>
