@@ -5,8 +5,6 @@
 
 <hr>
 
-<br clear="both">
-
 <div align="center" style="text-align: center;">
 <h4>My skills: </h4>
   <img src="https://skillicons.dev/icons?i=c" />
