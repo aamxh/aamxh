@@ -8,6 +8,7 @@
 <br clear="both">
 
 <div align="center" style="text-align: center;">
+<h4>My skills: </h4>
   <img src="https://skillicons.dev/icons?i=c" />
   <img src="https://skillicons.dev/icons?i=java">
   <img src="https://skillicons.dev/icons?i=py">
@@ -44,6 +45,7 @@
 </div>
 
 <br>
+<hr>
 
 <div align="center">
   <img height="150" src="https://giffiles.alphacoders.com/147/147515.gif"  />
