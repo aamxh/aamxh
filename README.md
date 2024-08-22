@@ -42,6 +42,7 @@
 
 
 <br clear="both">
+<br clear="both">
 
 <div align="center">
   <img height="150" src="https://giffiles.alphacoders.com/147/147515.gif"  />
