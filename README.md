@@ -40,7 +40,6 @@
   </a>
 </div>
 
-<hr>
 
 <br clear="both">
 
