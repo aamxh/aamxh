@@ -6,7 +6,7 @@
 <hr>
 
 <div align="center" style="text-align: center;">
-<h4>My skills: </h4>
+<h4>Skills</h4>
   <img src="https://skillicons.dev/icons?i=c" />
   <img src="https://skillicons.dev/icons?i=java">
   <img src="https://skillicons.dev/icons?i=py">
@@ -28,7 +28,7 @@
 
 <br clear="both">
 <div align="center">
-  <h4>Contact me: </h4>
+  <h4>Contact</h4>
   <a href="https://instagram.com/a.a.mxh/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="instagram logo"  />
   </a>
