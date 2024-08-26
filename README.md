@@ -6,33 +6,36 @@
 <hr>
 <br>
 
-<p>
-  <h3 align="left">My skills:</h3>
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=c" />
-  <img src="https://skillicons.dev/icons?i=java">
-  <img src="https://skillicons.dev/icons?i=py">
-  <img src="https://skillicons.dev/icons?i=html">
-  <img src="https://skillicons.dev/icons?i=css">
-  <img src="https://skillicons.dev/icons?i=js">
-  <img src="https://skillicons.dev/icons?i=ts">
-  <img src="https://skillicons.dev/icons?i=dart">
-  <br>
-  <img src="https://skillicons.dev/icons?i=flutter">
-  <img src="https://skillicons.dev/icons?i=firebase">
-  <img src="https://skillicons.dev/icons?i=nodejs">
-  <img src="https://skillicons.dev/icons?i=npm">
-  <img src="https://skillicons.dev/icons?i=express">
-  <img src="https://skillicons.dev/icons?i=mongodb">
-  <img src="https://skillicons.dev/icons?i=git">
-  <img src="https://skillicons.dev/icons?i=kali">
-  <br>
-  <img src="https://skillicons.dev/icons?i=androidstudio">
-  <img src="https://skillicons.dev/icons?i=vscode">
-  </p>
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamxh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+<h3 align="left">My skills:</h3>
+<div style="display: flex; align-items: center;">
+  <div>
+    <p align="left">
+      <img src="https://skillicons.dev/icons?i=c" />
+      <img src="https://skillicons.dev/icons?i=java">
+      <img src="https://skillicons.dev/icons?i=py">
+      <img src="https://skillicons.dev/icons?i=html">
+      <img src="https://skillicons.dev/icons?i=css">
+      <img src="https://skillicons.dev/icons?i=js">
+      <img src="https://skillicons.dev/icons?i=ts">
+      <img src="https://skillicons.dev/icons?i=dart">
+      <br>
+      <img src="https://skillicons.dev/icons?i=flutter">
+      <img src="https://skillicons.dev/icons?i=firebase">
+      <img src="https://skillicons.dev/icons?i=nodejs">
+      <img src="https://skillicons.dev/icons?i=npm">
+      <img src="https://skillicons.dev/icons?i=express">
+      <img src="https://skillicons.dev/icons?i=mongodb">
+      <img src="https://skillicons.dev/icons?i=git">
+      <img src="https://skillicons.dev/icons?i=kali">
+      <br>
+      <img src="https://skillicons.dev/icons?i=androidstudio">
+      <img src="https://skillicons.dev/icons?i=vscode">
+    </p>
+  </div>
+  <div style="margin-left: 20px;">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamxh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+</div>
 
 
 <br clear="both">
