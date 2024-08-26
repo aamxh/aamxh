@@ -38,7 +38,7 @@
   <a href="https://discordapp.com/users/1158869218641580076" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" alt="discord logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/mohamed-alsayed-ahmed-b16311317/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-alsayed-ahmed-b16311317/" target="_blank" style="margin: 5px;">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin logo"  />
   </a>
   </p>
