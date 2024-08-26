@@ -6,7 +6,8 @@
 <hr>
 <br>
 
-<h3 align="left">My skills:</h3>
+<p>
+  <h3 align="left">My skills:</h3>
   <p align="left">
     <img src="https://skillicons.dev/icons?i=c" />
   <img src="https://skillicons.dev/icons?i=java">
@@ -31,6 +32,7 @@
   </p>
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamxh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 
 <br clear="both">
