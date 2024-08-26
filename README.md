@@ -7,7 +7,8 @@
 <br>
 
 <h3 align="left">My skills:</h3>
-      <img src="https://skillicons.dev/icons?i=c" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c" />
       <img src="https://skillicons.dev/icons?i=java">
       <img src="https://skillicons.dev/icons?i=py">
       <img src="https://skillicons.dev/icons?i=html">
@@ -27,8 +28,9 @@
       <br>
       <img src="https://skillicons.dev/icons?i=androidstudio">
       <img src="https://skillicons.dev/icons?i=vscode">
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamxh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamxh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br clear="both">
   <h3 align="left">Contact me: </h3>
