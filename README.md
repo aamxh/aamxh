@@ -4,6 +4,7 @@
   software development and cyber-security.</h3>
 
 <hr>
+<br>
 
 <h3 align="left">My skills:</h3>
   <p align="left">
