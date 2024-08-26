@@ -14,6 +14,7 @@
   <img src="https://skillicons.dev/icons?i=html">
   <img src="https://skillicons.dev/icons?i=css">
   <img src="https://skillicons.dev/icons?i=js">
+  <img src="https://skillicons.dev/icons?i=ts">
   <img src="https://skillicons.dev/icons?i=dart">
   <img src="https://skillicons.dev/icons?i=flutter">
   <img src="https://skillicons.dev/icons?i=firebase">
@@ -21,8 +22,9 @@
   <br>
   <img src="https://skillicons.dev/icons?i=npm">
   <img src="https://skillicons.dev/icons?i=express">
+    <img src="https://skillicons.dev/icons?i=mongodb">
   <img src="https://skillicons.dev/icons?i=git">
-  <img src="https://skillicons.dev/icons?i=linux">
+  <img src="https://skillicons.dev/icons?i=kali">
   <img src="https://skillicons.dev/icons?i=androidstudio">
   <img src="https://skillicons.dev/icons?i=vscode">
   </p>
