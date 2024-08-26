@@ -16,18 +16,22 @@
   <img src="https://skillicons.dev/icons?i=js">
   <img src="https://skillicons.dev/icons?i=ts">
   <img src="https://skillicons.dev/icons?i=dart">
+  <br>
   <img src="https://skillicons.dev/icons?i=flutter">
   <img src="https://skillicons.dev/icons?i=firebase">
   <img src="https://skillicons.dev/icons?i=nodejs">
-  <br>
   <img src="https://skillicons.dev/icons?i=npm">
   <img src="https://skillicons.dev/icons?i=express">
-    <img src="https://skillicons.dev/icons?i=mongodb">
+  <img src="https://skillicons.dev/icons?i=mongodb">
   <img src="https://skillicons.dev/icons?i=git">
   <img src="https://skillicons.dev/icons?i=kali">
+  <br>
   <img src="https://skillicons.dev/icons?i=androidstudio">
   <img src="https://skillicons.dev/icons?i=vscode">
   </p>
+
+  [![aamxh's GitHub stats](https://github-readme-stats.vercel.app/api?username=aamxh)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br clear="both">
   <h3 align="left">Contact me: </h3>
