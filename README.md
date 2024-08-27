@@ -6,7 +6,7 @@
 <hr>
 <br>
 
-<h3 align="left">Learning: </h3>
+<h3 align="left">Learning and working with: </h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c" />
       <img src="https://skillicons.dev/icons?i=java">
