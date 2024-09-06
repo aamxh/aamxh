@@ -14,16 +14,16 @@
       <img src="https://skillicons.dev/icons?i=html">
       <img src="https://skillicons.dev/icons?i=css">
       <img src="https://skillicons.dev/icons?i=js">
+<br>
       <img src="https://skillicons.dev/icons?i=ts">
-      <br>
       <img src="https://skillicons.dev/icons?i=dart">
       <img src="https://skillicons.dev/icons?i=flutter">
       <img src="https://skillicons.dev/icons?i=firebase">
       <img src="https://skillicons.dev/icons?i=nodejs">
       <img src="https://skillicons.dev/icons?i=npm">
+<br>
       <img src="https://skillicons.dev/icons?i=express">
       <img src="https://skillicons.dev/icons?i=mongodb">
-      <br>
       <img src="https://skillicons.dev/icons?i=git">
       <img src="https://skillicons.dev/icons?i=kali">
       <img src="https://skillicons.dev/icons?i=androidstudio">
