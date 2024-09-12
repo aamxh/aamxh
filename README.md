@@ -11,18 +11,18 @@
       <img src="https://skillicons.dev/icons?i=c" />
       <img src="https://skillicons.dev/icons?i=java">
       <img src="https://skillicons.dev/icons?i=py">
-      <img src="https://skillicons.dev/icons?i=html">
-      <img src="https://skillicons.dev/icons?i=css">
-      <img src="https://skillicons.dev/icons?i=js">
-<br>
-      <img src="https://skillicons.dev/icons?i=ts">
       <img src="https://skillicons.dev/icons?i=dart">
       <img src="https://skillicons.dev/icons?i=flutter">
       <img src="https://skillicons.dev/icons?i=firebase">
-      <img src="https://skillicons.dev/icons?i=nodejs">
-      <img src="https://skillicons.dev/icons?i=npm">
 <br>
+      <img src="https://skillicons.dev/icons?i=html">
+      <img src="https://skillicons.dev/icons?i=css">
+      <img src="https://skillicons.dev/icons?i=js">
+      <img src="https://skillicons.dev/icons?i=ts">
+      <img src="https://skillicons.dev/icons?i=nodejs">
       <img src="https://skillicons.dev/icons?i=express">
+<br>
+      <img src="https://skillicons.dev/icons?i=npm">
       <img src="https://skillicons.dev/icons?i=mongodb">
       <img src="https://skillicons.dev/icons?i=git">
       <img src="https://skillicons.dev/icons?i=kali">
