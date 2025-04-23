@@ -30,8 +30,6 @@
       <img src="https://skillicons.dev/icons?i=vscode">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamxh&layout=compact&hide=C%2B%2B,cmake,swift)](https://github.com/anuraghazra/github-readme-stats)
-
 <br clear="both">
   <h3 align="left">Contact me: </h3>
   <p align="left">
