@@ -1,24 +1,23 @@
 <br clear="both">
 
-<h3 align="center">A computer science student who's into learning more about <br>
-  software development and cyber-security.</h3>
+<h4 align="center">A computer science student who's into learning more about software development and cyber-security.</h4>
 
 <hr>
 <br>
 
-<h3 align="left">Learning and working with: </h3>
-<p align="left">
+<h4 align="center">Learning and working with: </h4>
+<p align="center">
       <img src="https://skillicons.dev/icons?i=c" />
-      <img src="https://skillicons.dev/icons?i=java">
-      <img src="https://skillicons.dev/icons?i=py">
       <img src="https://skillicons.dev/icons?i=dart">
-      <img src="https://skillicons.dev/icons?i=flutter">
-      <img src="https://skillicons.dev/icons?i=firebase">
+      <img src="https://skillicons.dev/icons?i=java">
+      <img src="https://skillicons.dev/icons?i=python">
+      <img src="https://skillicons.dev/icons?i=js">
+      <img src="https://skillicons.dev/icons?i=bash">
 <br>
       <img src="https://skillicons.dev/icons?i=html">
       <img src="https://skillicons.dev/icons?i=css">
-      <img src="https://skillicons.dev/icons?i=js">
-      <img src="https://skillicons.dev/icons?i=ts">
+      <img src="https://skillicons.dev/icons?i=flutter">
+      <img src="https://skillicons.dev/icons?i=firebase">
       <img src="https://skillicons.dev/icons?i=nodejs">
       <img src="https://skillicons.dev/icons?i=express">
 <br>
@@ -31,8 +30,8 @@
 </p>
 
 <br clear="both">
-  <h3 align="left">Contact me: </h3>
-  <p align="left">
+  <h4 align="center">Contact me: </h4>
+  <p align="center">
       <a href="https://instagram.com/a.a.mxh/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="instagram logo"  />
   </a>
