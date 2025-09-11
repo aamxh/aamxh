@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h4 align="center">Learning and working with: </h4>
+<h3 align="center">Learning and working with: </h3>
 <p align="center">
       <img src="https://skillicons.dev/icons?i=c" />
       <img src="https://skillicons.dev/icons?i=dart">
@@ -25,7 +25,7 @@
 </p>
 
 <br clear="both">
-  <h4 align="center">Contact me: </h4>
+  <h3 align="center">Contact me: </h3>
   <p align="center">
       <a href="https://instagram.com/a.a.mxh/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="instagram logo"  />
