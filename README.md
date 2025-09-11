@@ -1,10 +1,5 @@
 <br clear="both">
 
-<h4 align="center">A computer science student who's into learning more about software development and cyber-security.</h4>
-
-<hr>
-<br>
-
 <h4 align="center">Learning and working with: </h4>
 <p align="center">
       <img src="https://skillicons.dev/icons?i=c" />
