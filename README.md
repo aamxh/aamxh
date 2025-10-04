@@ -3,25 +3,28 @@
 <h3 align="center">Learning and working with: </h3>
 <p align="center">
       <img src="https://skillicons.dev/icons?i=c" />
-      <img src="https://skillicons.dev/icons?i=dart">
       <img src="https://skillicons.dev/icons?i=java">
       <img src="https://skillicons.dev/icons?i=python">
-      <img src="https://skillicons.dev/icons?i=js">
-      <img src="https://skillicons.dev/icons?i=bash">
+      <img src="https://skillicons.dev/icons?i=dart">
+      <img src="https://skillicons.dev/icons?i=flutter">
+      <img src="https://skillicons.dev/icons?i=firebase">
 <br>
       <img src="https://skillicons.dev/icons?i=html">
       <img src="https://skillicons.dev/icons?i=css">
-      <img src="https://skillicons.dev/icons?i=flutter">
-      <img src="https://skillicons.dev/icons?i=firebase">
+      <img src="https://skillicons.dev/icons?i=js">
       <img src="https://skillicons.dev/icons?i=nodejs">
+      <img src="https://skillicons.dev/icons?i=npm">
       <img src="https://skillicons.dev/icons?i=express">
 <br>
-      <img src="https://skillicons.dev/icons?i=npm">
       <img src="https://skillicons.dev/icons?i=mongodb">
-      <img src="https://skillicons.dev/icons?i=git">
-      <img src="https://skillicons.dev/icons?i=kali">
+      <img src="https://skillicons.dev/icons?i=postgresql">
       <img src="https://skillicons.dev/icons?i=androidstudio">
       <img src="https://skillicons.dev/icons?i=vscode">
+      <img src="https://skillicons.dev/icons?i=git">
+      <img src="https://skillicons.dev/icons?i=linux">
+<br>
+      <img src="https://skillicons.dev/icons?i=bash">
+      <img src="https://skillicons.dev/icons?i=vim">
 </p>
 
 <br clear="both">
