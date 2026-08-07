@@ -30,33 +30,33 @@
 
 <div data-importer="techs" align="left">
   <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=rust" height="50" alt="rust logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=dart" height="50" alt="dart logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=flutter" height="50" alt="flutter logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="firebase logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=aws" height="50" alt="amazonwebservices logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=redis" height="50" alt="redis logo"  />
 </div>
 
