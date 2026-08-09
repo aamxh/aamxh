@@ -51,7 +51,7 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"  />
   <img width="5" />
