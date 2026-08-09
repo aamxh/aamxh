@@ -29,6 +29,10 @@
 ###
 
 <div data-importer="techs" align="left">
+  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
+  <img width="5">
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
@@ -45,19 +49,15 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="amazonwebservices logo"  />
-  <img width="5" />
   <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="mongodb logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=redis" height="50" alt="redis logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
 </div>
 
 ###
