@@ -3,14 +3,17 @@
 ###
 
 <div data-importer="socials" align="center">
+  <a href="https://cyberdefenders.org/p/aamxh/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=CyberDefenders&logo=cyberdefenders&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="cyberdefenders logo"  />
+  </a>
+  <a href="https://discordapp.com/users/1158869218641580076" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
   <a href="https://linkedin.com/in/mohammed-alsayed-ahmed-51a938384" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/aamxh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://discordapp.com/users/1158869218641580076" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
 </div>
 
